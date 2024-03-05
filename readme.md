@@ -74,4 +74,5 @@ staging area
     - git push 
 
 
-23.
+23. Merge conflicts are a very common scenario
+    merge conflicts can occur if multiple people try to make changes to the same file, and then collaborate 
