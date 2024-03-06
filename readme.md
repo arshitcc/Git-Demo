@@ -77,5 +77,5 @@ staging area
 23. Merge conflicts are a very common scenario
     merge conflicts can occur if multiple people try to make changes to the same file, and then collaborate 
 
-24. Let's check the merge commit  of this line -> Hello Bro. I have solved 300+ problems on LeetCode.
+24. Let's check the merge commit  of this line.
 
